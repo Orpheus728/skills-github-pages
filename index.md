@@ -1,9 +1,4 @@
----
-title: Paradise!
----
-#Hello Everyone
-##Welcome to Paradise
-###Jokes aside, this is where I will be testing things so that I may, hopefully in an upcoming day, upload original 
-stories written by me that people might enjoy.
+# Welcome To Paradise!
+###### The goal for this website is to be functional, so that I can upload original stories, written by me, that hopelly will be enjoyed by others!
 
-#####Thank You <3
+### Thank You <3
